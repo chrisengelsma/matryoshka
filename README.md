@@ -1,7 +1,7 @@
 # matryoshka
 matryoshka NFT Information
 
-Like its namesake, it has more to offer curious minds.
+Like its namesake, it has more to offer curious minds. Github was used as the landing page for this project to allow owners of the NFT to share their findings, post relevant code examples and duscuss amongst a themselves what potential resides in the project.
 
 Only 1 copy in existence.
 
